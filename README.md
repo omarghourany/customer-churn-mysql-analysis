@@ -134,3 +134,17 @@ Through this project, I practiced:
 * Writing structured SQL queries to answer business questions.
 * Converting analytical findings into actionable business recommendations.
 * Communicating business insights in a clear and professional manner.
+
+## Repository Structure
+
+```
+customer-churn-mysql-analysis/
+│
+├── README.md
+├── SQL/
+│   └── customer_churn_analysis.sql
+│
+└── Dataset/
+    ├── customer_churn_original.csv
+    └── clean_customer_churn.csv
+```
